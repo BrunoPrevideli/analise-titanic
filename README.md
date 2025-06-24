@@ -66,7 +66,9 @@ O projeto inclui:
 
 ## 📁 Estrutura do Projeto
 analise-titanic/
+
 ├── README.md
+
 └── analise_titanic.ipynb
 
 ## 📚 Aprendizados
